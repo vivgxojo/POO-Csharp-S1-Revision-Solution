@@ -39,7 +39,7 @@ for (int i = 0; i < chaines.Length; i++)
 Console.WriteLine("\nTests de Multiples de 10 :");
 for (int i = 0; i < nombres.Length; i++)
 {
-    Console.WriteLine($"La longueur de : \"{nombres[i]}\" est : {resultatsEstMultiple10[i]}");
+    Console.WriteLine($"Multiple de 10 : \"{nombres[i]}\" : {resultatsEstMultiple10[i]}");
 }
 for (int i = 0; i < 3; i++)
 {
